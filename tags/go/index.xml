@@ -1,26 +1,7 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Go on komisan19.dev</title>
-    <link>https://komisan19.github.io/tags/go/</link>
-    <description>Recent content in Go on komisan19.dev</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>jp</language>
-    <lastBuildDate>Sun, 06 Dec 2020 20:05:20 +0900</lastBuildDate><atom:link href="https://komisan19.github.io/tags/go/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>GitHub Pages&#43;Hugoを使ったblogサイト作成手順</title>
-      <link>https://komisan19.github.io/post/makeblog/</link>
-      <pubDate>Sun, 06 Dec 2020 20:05:20 +0900</pubDate>
-      
-      <guid>https://komisan19.github.io/post/makeblog/</guid>
-      <description>&lt;h2 id=&#34;whats-hugo&#34;&gt;What&amp;rsquo;s Hugo?&lt;/h2&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;Hugo is one of the most popular open-source static site generators.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Go on komisan19.dev</title><link>https://komisan19.github.io/tags/go/</link><description>Recent content in Go on komisan19.dev</description><generator>Hugo -- gohugo.io</generator><language>jp</language><lastBuildDate>Sun, 06 Dec 2020 20:05:20 +0900</lastBuildDate><atom:link href="https://komisan19.github.io/tags/go/index.xml" rel="self" type="application/rss+xml"/><item><title>GitHub Pages+Hugoを使ったblogサイト作成手順</title><link>https://komisan19.github.io/post/makeblog/</link><pubDate>Sun, 06 Dec 2020 20:05:20 +0900</pubDate><guid>https://komisan19.github.io/post/makeblog/</guid><description>&lt;h2 id="whats-hugo">What&amp;rsquo;s Hugo?&lt;/h2>
+&lt;div class="highlight">&lt;pre class="chroma">&lt;code class="language-fallback" data-lang="fallback">Hugo is one of the most popular open-source static site generators.
 With its amazing speed and flexibility, Hugo makes building websites fun again.
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;ul&gt;
-&lt;li&gt;Hugoは人気のあるオープンソースの静的サイトジェネレータの1つ&lt;/li&gt;
-&lt;li&gt;Markdwonが使えてサイト構築が早いのが特徴です。&lt;/li&gt;
-&lt;/ul&gt;</description>
-    </item>
-    
-  </channel>
-</rss>
+&lt;/code>&lt;/pre>&lt;/div>&lt;ul>
+&lt;li>Hugoは人気のあるオープンソースの静的サイトジェネレータの1つ&lt;/li>
+&lt;li>Markdwonが使えてサイト構築が早いのが特徴です。&lt;/li>
+&lt;/ul></description></item></channel></rss>
