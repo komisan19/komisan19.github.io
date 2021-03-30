@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>メモ on komisan19.dev</title>
+    <link>https://komisan19.github.io/tags/%E3%83%A1%E3%83%A2/</link>
+    <description>Recent content in メモ on komisan19.dev</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>jp</language>
+    <lastBuildDate>Thu, 10 Dec 2020 00:48:54 +0900</lastBuildDate><atom:link href="https://komisan19.github.io/tags/%E3%83%A1%E3%83%A2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MecabをUbuntuに入れてみた</title>
+      <link>https://komisan19.github.io/post/mecab/</link>
+      <pubDate>Thu, 10 Dec 2020 00:48:54 +0900</pubDate>
+      
+      <guid>https://komisan19.github.io/post/mecab/</guid>
+      <description>Install $ sudo apt -y mecab libmecab-dev mecab-ipadic-utf8 ただこれだけだと、うまく解析できない。 例えば、特急はくたかってやると以下の通りなる
+$ mecab 特急はくたか 特急 名詞,一般,*,*,*,*,特急,トッキュウ,トッキュー は 助詞,係助詞,*,*,*,*,は,ハ,ワ く 動詞,自立,*,*,カ変・クル,体言接続特殊２,くる,ク,ク た 助動詞,*,*,*,特殊・タ,基本形,た,タ,タ か 助詞,副助詞／並立助詞／終助詞,*,*,*,*,か,カ,カ EOS そこで、neologdをいれてみる
+$ git clone https://github.com/neologd/mecab-ipadic-neologd.git $ cd mecab-ipadic-neologd $ sudo bin/install-mecab-ipadic-neologd 最後の方に、mecabで使うときのpathが出るのでそれを/etc/mecabrcに記述する
+dicdir = /usr/lib/mecab/dic/mecab-ipadic-neologd 上記のパスは人によって異なるかもです</description>
+    </item>
+    
+  </channel>
+</rss>
