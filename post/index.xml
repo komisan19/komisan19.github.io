@@ -18,4 +18,4 @@ With its amazing speed and flexibility, Hugo makes building websites fun again.
 &lt;/code>&lt;/pre>&lt;/div>&lt;ul>
 &lt;li>Hugoは人気のあるオープンソースの静的サイトジェネレータの1つ&lt;/li>
 &lt;li>Markdwonが使えてサイト構築が早いのが特徴です。&lt;/li>
-&lt;/ul></description></item><item><title>Go Hello</title><link>https://komisan19.github.io/post/go-hello/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://komisan19.github.io/post/go-hello/</guid><description>package main import &amp;#34;fmt&amp;#34; func main(){ fmt.Println(&amp;#34;hello&amp;#34;) }</description></item></channel></rss>
+&lt;/ul></description></item></channel></rss>
